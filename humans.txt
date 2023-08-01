@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Mornay Support mornay@firstdmt.com
 
 # THANKS
 
